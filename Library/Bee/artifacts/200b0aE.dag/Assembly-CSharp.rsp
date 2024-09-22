@@ -352,7 +352,12 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.44f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.44f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/_Scripts/ChangeColorOnClick.cs"
+"Assets/_Scripts/CubeMovementWithTrail.cs"
 "Assets/_Scripts/mover.cs"
+"Assets/_Scripts/MoveSphere.cs"
+"Assets/_Scripts/RollBall.cs"
+"Assets/_Scripts/RotateObject.cs"
 -langversion:9.0
 /deterministic
 /optimize+
