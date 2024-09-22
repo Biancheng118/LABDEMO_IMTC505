@@ -1,3 +1,4 @@
+Guides:<br>
 1: Click the object to change random colour.<br>
 2: Press space key to jump.<br>
 3: The cube will automaticlly rotate.<br>
